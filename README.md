@@ -8,8 +8,5 @@ A collection of group case assignments completed for Marketing Analytics (MBA 56
 - **rocket-fuel-taskabella** — field experiment measuring digital advertising's causal effect on sales
 - **beer-market-case** — marketing mix strategy across five beer brands using panel sales data (write-up pending, see note below)
 
-## Note on Beer Market
-Only the case prompt and industry background material are currently available for this case, not the team's completed analysis and recommendations. This folder will be added once that write-up is located.
-
 ## Contributors
 Abdul-Rahim Baba Abdul-Mumin, Joon Kim, Likhitha Srinivas, Vivian Umelo
