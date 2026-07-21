@@ -17,6 +17,3 @@ Ran a conjoint analysis on attribute importance (games, location, price, promoti
 
 ## Recommendation
 Offer a flagship 6-game package at $35 for 300-level corner seats with a food promotion as the primary offering, and a secondary 6-game package at $25 for 300-level midcourt seats with the same promotion to capture price-sensitive fans. Avoid any package involving 200-level midcourt seats unless priced at $60 or above, since those combinations are financially unsustainable regardless of their fan appeal.
-
-## Contributors
-Abdul-Rahim Baba Abdul-Mumin, Joon Kim, Likhitha Srinivas, Vivian Umelo
