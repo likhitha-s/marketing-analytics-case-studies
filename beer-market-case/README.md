@@ -29,6 +29,3 @@ Three extensions were proposed to address limitations in the base models:
 - **Interaction effects** between price, advertising, and feature variables, since the current models assume these operate independently.
 - **Advertising carryover (adstock)**, to capture the fact that advertising's effect builds across periods rather than resetting each day; requires estimating a decay parameter via PROC MODEL or by testing fixed decay values.
 - **Time effects**, to account for evolving market conditions and brand-specific fixed effects over the 1,000-day window, including a lagged sales term and linear/quadratic time trends.
-
-## Contributors
-Abdul-Rahim Baba Abdul-Mumin, Joon Kim, Likhitha Srinivas, Vivian Umelo
