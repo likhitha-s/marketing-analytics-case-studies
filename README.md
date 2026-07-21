@@ -6,7 +6,7 @@ A collection of group case assignments completed for Marketing Analytics (MBA 56
 - **airbnb-disruptor-global-hospitality** — data strategy for Airbnb's transition into a full service travel ecosystem
 - **portland-trail-blazers-ticket-packages** — conjoint analysis for multi-game ticket package design
 - **rocket-fuel-taskabella** — field experiment measuring digital advertising's causal effect on sales
-- **beer-market-case** — marketing mix strategy across five beer brands using panel sales data (write-up pending, see note below)
+- **beer-market-case** — marketing mix strategy across five beer brands using panel sales data
 
 ## Contributors
 Abdul-Rahim Baba Abdul-Mumin, Joon Kim, Likhitha Srinivas, Vivian Umelo
