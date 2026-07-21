@@ -17,6 +17,3 @@ Mapped fields from Airbnb's existing listings dataset (neighborhood group, room 
 
 ## Recommendation
 Pursue the ecosystem strategy through partnerships with tour operators, mobility providers, and local hosts rather than building every capability in-house, paired with stronger vetting and compliance processes. In parallel, expand data collection to include trip purpose, companion type, spending categories, and transport and experience preferences (via surveys, in-app prompts, or partnerships with airlines, ride-share firms, and event organizers), then apply predictive modeling to personalize travel bundles, backed by clear data governance to maintain regulatory compliance and guest trust.
-
-## Contributors
-Abdul-Rahim Baba Abdul-Mumin, Joon Kim, Likhitha Srinivas, Vivian Umelo
