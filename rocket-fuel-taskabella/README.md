@@ -17,6 +17,3 @@ Used the randomized control group design (difference-in-differences) to isolate 
 
 ## Recommendation
 Scale the campaign given the demonstrated ROI, but restructure delivery to guarantee each targeted user reaches at least 6-8 impressions rather than spreading impressions thinly across a wider audience. Concentrate bids on Saturday evenings (8-10pm) and reduce spend during weekday daytime hours. Keep the control group in future campaigns, since the opportunity cost is small relative to the value of being able to prove causality to stakeholders, and use the experimental data to build out audience segmentation for future targeting.
-
-## Contributors
-Abdul-Rahim Baba Abdul-Mumin, Joon Kim, Likhitha Srinivas, Vivian Umelo
